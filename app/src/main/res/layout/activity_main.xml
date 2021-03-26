@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background2"
+    tools:context="myappaledone.myappale.MainActivity">
+
+  <ImageView
+      android:id="@+id/imageView2222"
+      android:layout_width="0dp"
+      android:layout_height="0dp"
+      android:contentDescription="@string/fotogrande"
+      android:fadingEdge="horizontal|vertical"
+      android:fadingEdgeLength="0.8dp"
+      android:scaleType="centerCrop"
+      android:src="@drawable/background2"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="1.0"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      app:layout_constraintVertical_bias="0.0" />
+
+  <Button
+      android:id="@+id/buttonprimero"
+      android:layout_width="268dp"
+      android:layout_height="75dp"
+      android:background="@drawable/buttonborder"
+      android:fontFamily="@font/rockb"
+
+      android:orientation="horizontal"
+      android:shadowColor="#000000"
+      android:shadowDx="1.5"
+
+      android:shadowDy="1.3"
+      android:shadowRadius="1.6"
+      android:text="@string/enter"
+      android:textAllCaps="false"
+
+
+      android:textColorHint="#8BC34A"
+      android:textSize="42sp"
+
+      android:weightSum="8"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      app:layout_constraintVertical_bias="0.737" />
+
+  <Button
+      android:id="@+id/buttonsegundo"
+      android:layout_width="268dp"
+      android:layout_height="75dp"
+      android:layout_marginTop="16dp"
+
+      android:background="@drawable/buttonborder2"
+      android:fontFamily="@font/rockb"
+      android:shadowColor="#000000"
+
+      android:shadowDx="1.5"
+      android:shadowDy="1.3"
+      android:shadowRadius="1.6"
+      android:text="@string/melody"
+
+      android:textAllCaps="false"
+      android:textColorHint="#9C27B0"
+      android:textSize="24sp"
+      android:visibility="visible"
+      app:layout_constraintBottom_toBottomOf="@+id/imageView2"
+      app:layout_constraintEnd_toEndOf="@+id/buttonprimero"
+      app:layout_constraintHorizontal_bias="0.0"
+      app:layout_constraintStart_toStartOf="@+id/buttonprimero"
+      app:layout_constraintTop_toBottomOf="@+id/buttonprimero"
+      app:layout_constraintVertical_bias="0.074" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+

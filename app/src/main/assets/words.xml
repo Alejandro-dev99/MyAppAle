@@ -1,0 +1,183 @@
+<WordBank>
+
+	<!-- list of Music Terms -->
+
+	<item str="ADAGIO"/>
+	<item str="ALLEGRO"/>
+	<item str="ARPEGGIO"/>
+	<item str="ATONAL"/>
+	<item str="BAROQUE"/>
+	<item str="CADENZA"/>
+	<item str="CANON"/>
+	<item str="CHORD"/>
+	<item str="CHORUS"/>
+	<item str="CLEF"/>
+	<item str="CODA"/>
+	<item str="CONCERTO"/>
+	<item str="CRESCENDO"/>
+	<item str="DIMINUENDO"/>
+	<item str="DUET"/>
+	<item str="DYNAMICS"/>
+	<item str="ESPRESSIVO"/>
+	<item str="FALSETTO"/>
+	<item str="FERMATA"/>
+	<item str="FLAT"/>
+	<item str="FORTE"/>
+	<item str="GIOCOSO"/>
+	<item str="GLISSANDO"/>
+	<item str="GRANDIOSO"/>
+	<item str="LARGO"/>
+	<item str="LEGATO"/>
+	<item str="MEDLEY"/>
+	<item str="MEZZO"/>
+	<item str="MOTIF"/>
+	<item str="OCTAVE"/>
+	<item str="OSTINATO"/>
+	<item str="PIANISSIMO"/>
+	<item str="PITCH"/>
+	<item str="PIZZICATO"/>
+	<item str="PRESTO"/>
+	<item str="RITARDANDO"/>
+	<item str="RONDO"/>
+	<item str="RUBATO"/>
+	<item str="SCHERZO"/>
+	<item str="SEMITONE"/>
+	<item str="SHARP"/>
+	<item str="SOPRANO"/>
+	<item str="STACCATO"/>
+	<item str="TEMPO"/>
+	<item str="TENOR"/>
+	<item str="TIMBRE"/>
+	<item str="TREMOLO"/>
+	<item str="TRILL"/>
+	<item str="TRIPLET"/>
+	<item str="TUTTI"/>
+	<item str="VAMP"/>
+	<item str="VIBRATO"/>
+	<item str="VIVACE"/>
+
+
+	<!--list of instruments -->
+	<item str="ACCORDION"/>
+	<item str="ALTOSAXOPHONE"/>
+	<item str="BAGPIPE"/>
+	<item str="BANJO"/>
+	<item str="BASS"/>
+	<item str="BASSGUITAR"/>
+	<item str="BONGODRUMS"/>
+	<item str="CAVAQUINHO"/>
+	<item str="CELLO"/>
+	<item str="CLARINET"/>
+	<item str="CLAVINET"/>
+	<item str="CONTRABASS"/>
+	<item str="CORNET"/>
+	<item str="DOUBLEBASS"/>
+	<item str="DRUMKIT"/>
+	<item str="ELECTRICGUITAR"/>
+	<item str="ENGLISHHORN"/>
+	<item str="EUPHONIUM"/>
+	<item str="FIDDLE"/>
+	<item str="FLUGELHORN"/>
+	<item str="FLUTE"/>
+	<item str="FRENCHHORN"/>
+	<item str="GUITAR"/>
+	<item str="GUITARRON"/>
+	<item str="HARMONICA"/>
+	<item str="HARP"/>
+	<item str="HARPSICHORD"/>
+	<item str="LUTE"/>
+	<item str="MANDOLIN"/>
+	<item str="OBOE"/>
+	<item str="OCARINA"/>
+	<item str="ORGAN"/>
+	<item str="PIANO"/>
+	<item str="PICCOLO"/>
+	<item str="SAXOPHONE"/>
+	<item str="SITAR"/>
+	<item str="SAXOPHONE"/>
+	<item str="TENORSAXOPHONE"/>
+	<item str="THEREMIN"/>
+	<item str="TROMBONE"/>
+	<item str="TRUMPET"/>
+	<item str="TUBA"/>
+	<item str="UKULELE"/>
+	<item str="VIHUELA"/>
+	<item str="VIOLA"/>
+	<item str="VIOLIN"/>
+
+
+	
+	<!--list of Percussion -->
+	<item str="BELL"/>
+	<item str="CAJON"/>
+	<item str="CYMBALS"/>
+	<item str="DJEMBE"/>
+	<item str="DRUM"/>
+	<item str="BASSDRUM"/>
+	<item str="SNAREDRUM"/>
+	<item str="DRUMKIT"/>
+	<item str="GLOCKENSPIEL"/>
+	<item str="GONG"/>
+	<item str="MARACAS"/>
+	<item str="MARIMBA"/>
+	<item str="PIANO"/>
+	<item str="TAMBOURINE"/>
+	<item str="TIMPANI"/>
+	<item str="TRIANGLE"/>
+	<item str="VIBRAPHONE"/>
+	<item str="XYLOPHONE"/>
+
+
+
+	<!--RANDOM-->
+	<item str="ARRANGER"/>
+	<item str="AUDIENCE"/>
+	<item str="COMPOSER"/>
+	<item str="CONCERT"/>
+	<item str="DELAY"/>
+	<item str="DIRECTOR"/>
+	<item str="ECHO"/>
+	<item str="EFFECT"/>
+	<item str="IMPROVE"/>
+	<item str="LEARN"/>
+	<item str="PEDAL"/>
+	<item str="PLAY"/>
+	<item str="REHEARSAL"/>
+	<item str="RELAX"/>
+	<item str="REPEAT"/>
+	<item str="REVERB"/>
+	<item str="SINGER"/>
+	<item str="SKILLS"/>
+	<item str="SONGWRITER"/>
+	<item str="STUDENT"/>
+	<item str="STUDY"/>
+
+
+
+
+
+	<!--PARTS-->
+	<item str="BOW"/>
+	<item str="BRIDGE"/>
+	<item str="CHINREST"/>
+	<item str="CORK"/>
+	<item str="CRASHCYMBAL"/>
+	<item str="DRUMSTICK"/>
+	<item str="FLOORTOM"/>
+	<item str="HITHATCYMBAL"/>
+	<item str="KEYS"/>
+	<item str="MOUTHPIECE"/>
+	<item str="NUT"/>
+	<item str="PLECTRUM"/>
+	<item str="REED"/>
+	<item str="RESONATOR"/>
+	<item str="RIDE"/>
+	<item str="SADDLE"/>
+	<item str="SNARE"/>
+	<item str="SOUNDHOLE"/>
+	<item str="STRAP"/>
+	<item str="STRINGS"/>
+	<item str="TAILPIECE"/>
+	<item str="TOMTOM"/>
+	<item str="VALVE"/>
+</WordBank>

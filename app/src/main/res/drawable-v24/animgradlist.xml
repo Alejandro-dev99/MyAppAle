@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <item android:drawable="@drawable/animgrad1"
+        android:duration="4000"/>
+    <item android:drawable="@drawable/animgrad2"
+        android:duration="4000"/>
+    <item android:drawable="@drawable/animgrad3"
+        android:duration="4000"/>
+
+</animation-list>

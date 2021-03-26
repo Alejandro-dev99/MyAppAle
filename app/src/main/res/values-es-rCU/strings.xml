@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My App Ale</string>
+    <string name="about">Info</string>
+    <string name="portfolio2">Trabajos</string>
+    <string name="boton2pg3">Mas info</string>
+    <string name="gispert">Alejandro Gispert</string>
+    <string name="getanoriginal">Obtenga composiciones originales para su proyecto</string>
+    <string name="portfolio">Portafolio</string>
+    <string name="about2">Info</string>
+    <string name="alename2">Alejandro Gispert Navarro</string>
+    <string name="book">Contratar</string>
+    <string name="draper">\"Una gota diminuta\"</string>
+    <string name="thecubanspectrum">“The Cuban Spectrum”</string>
+    <string name="privatelessons">“Clases Privadas”</string>
+    <string name="contact">Contactar</string>
+    <string name="mymusic">Mi Música</string>
+    <string name="myprojects">Mis Projectos</string>
+    <string name="copyright">alejandrogispert©2020</string>
+    <string name="enter">Entra</string>
+    <string name="melody">Encuentrapalabras</string>
+    <string name="finished">Terminado!</string>
+    <string name="enable_fullscreen">Pantalla completa</string>
+    <string name="new_game">JUEGO NUEVO</string>
+    <string name="main_menu">Menu Principal</string>
+    <string name="congratulations">Felicidades!</string>
+    <string name="settings">Opciones</string>
+    <string name="about_credit">Programador: Alejandro Gispert</string>
+    <string name="enable_sound">Ponle Sonido</string>
+    <string name="descr4">Necesitas ayuda? Este es lugar para ti, sin importar edad, o nivel. Las clases son individuales.</string>
+    <string name="descrp3">Bellas presentaciones de música cubana para todas las edades, especialmente para los mayores de edad.</string>
+    <string name="spectrumproject">The Cuban Spectrum Project es una banda de jazz crossover co música caribeña-afrocubana, radicados en escandinavia y fundada por Alejandro Gispert en 2015.</string>
+    <string name="differentandunique" translatable="false">Esta actuación es una oferta del programa noruego cultural para estudiantes en los grados 1-7. Se basa en el tema de ser diferente y único.</string>
+    <string name="duoalepatricia"><![CDATA[“Duo Ale & Patricia”]]></string>
+    <string name="developer2">Noruega</string>
+    <string name="developer">Programador</string>
+    <string name="paragraph1">"Me formé como bajista y pedagogo en la Escuela Nacional de Arte y en el Instituto de Arte de La Habana, Cuba. También estudié Música Electrónica en Vivo en la Academia Noruega de Música y pedagogía en el instituto de música Barratt-Due. He estado trabajando como bajista profesional con varios artistas y bandas conocidos y desconocidos. "</string>
+    <string name="summary_about">"El objetivo de este juego es encontrar y marcar todas las palabras escondidas dentro de la caja. Las palabras pueden colocarse horizontal, vertical o diagonalmente. Se proporcionan algunas pistas de las palabras ocultas. Este juego de rompecabezas de búsqueda de palabras tiene como objetivo aprender sobre los instrumentos musicales y los conceptos básicos del lenguaje musical. "</string>
+    <string name="change_grid_size">Aumentar difficultad</string>
+</resources>

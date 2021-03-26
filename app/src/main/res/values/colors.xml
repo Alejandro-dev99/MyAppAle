@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D42A54</color>
+    <color name="colorPrimaryDark">#131A5A</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="amarillo">#BDD16A</color>
+
+
+
+    <color name="selTextBgColor">#00BCD4</color>
+    <color name="gray">#aa808080</color>
+
+</resources>
